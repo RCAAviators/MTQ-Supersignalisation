@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="282.40543mm"
+   height="647.453mm"
+   viewBox="0 0 282.40543 647.453"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="B-15.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.33184273"
+     inkscape:cx="90.40427"
+     inkscape:cy="864.86752"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1002">
+      <path
+         d="M 69.035,109.632 H 544.2 V 668.401 H 69.035 Z"
+         id="path1000" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1462">
+      <path
+         d="M 69.035,109.632 H 544.2 V 668.401 H 69.035 Z"
+         id="path1460" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-65.504667,-68.565195)">
+    <g
+       id="g1456"
+       transform="matrix(8.819444,0,0,-8.819444,-3147.1986,3115.8295)"
+       style="stroke-width:0.04;fill:#ffffff">
+      <g
+         id="g1458"
+         clip-path="url(#clipPath1462)"
+         style="stroke-width:0.04;fill:#ffffff">
+        <g
+           id="g1464"
+           transform="translate(386.0264,272.1046)"
+           style="stroke-width:0.04;fill:#ffffff">
+          <path
+             d="M 0,0 -1.437,51.02 8.41,48.221 c 0.858,-0.155 1.678,0.416 1.834,1.273 0.069,0.377 -0.004,0.766 -0.201,1.094 L 9.932,50.777 -4.133,72.438 c -0.357,0.554 -0.951,0.914 -1.608,0.974 -0.657,-0.06 -1.251,-0.42 -1.609,-0.974 l -14.063,-21.661 -0.112,-0.189 c -0.45,-0.746 -0.208,-1.717 0.539,-2.166 0.328,-0.197 0.716,-0.27 1.093,-0.201 L -10.044,51.02 -11.482,0 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.04"
+             id="path1466" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
